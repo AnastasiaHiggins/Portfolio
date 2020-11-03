@@ -1,0 +1,34 @@
+.border-style {
+  border-style: ridge;
+}
+
+#boxes {
+content: "";
+display: table;
+clear: both;
+float: left;
+
+}
+
+div {
+float: left;
+
+padding: 0 10px;
+}
+
+#column1 {
+background-color: #a1edcc;
+}
+
+#column2 {
+background-color: #a0e9ed;
+
+}
+
+#column3 {
+background-color: #f497f1;
+}
+
+#mouse {
+background-color: #f497e1;
+}
